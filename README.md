@@ -1,6 +1,6 @@
 # Programação_Resumo_01
 
-# Uma nova Linha de codigo 2026:
+# Uma nova Linha de código 2026:
 
 
 # Teste linha 
